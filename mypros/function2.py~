@@ -1,0 +1,14 @@
+def addition(*args):
+ arg1, arg2 = args
+ print "Addition is=",arg1+arg2
+
+def substraction(a, b):
+ print "substraction=",a-b
+
+def multiplication(a, b, c):
+ print "multiplication is=",a*b*c
+
+multiplication(10.1, 20.2, 30.3)
+addition(10,20)
+substraction(30,20)
+

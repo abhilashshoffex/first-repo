@@ -1,0 +1,20 @@
+print "this is a python example."
+print "i am writing thi in %s editor." %'GEDIT'
+print "i use terminal to run the code."
+
+a1 = "m"
+a2 = "y"
+a3 = "n"
+a4 = "a"
+a5 = "m"
+a6 = "e"
+a7 = "i"
+a8 = "s"
+a9 = "A"
+a10 = "b"
+a11 = "h"
+a12 = "i"
+a13 = " "
+print a1+a2+a13+a3+a4+a5+a6+a13+a7+a8
+print a9+a10+a11+a1
+
