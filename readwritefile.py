@@ -24,6 +24,9 @@ f1.write("\n")
 f1.write(s2)
 f1.write("\n")
 f1.write(s3)
-
-print "file operation is finished"
 f1.close()
+
+f2 = open(filename)
+print f2.read()
+print "file operation is finished"
+
